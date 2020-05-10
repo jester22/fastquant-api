@@ -1,4 +1,5 @@
 # fastquant-api
+Rest API for [fastquant](https://github.com/enzoampil/fastquant "Fastquant's GitHUb Page")
 
 ## Getting Started
 
