@@ -3,11 +3,11 @@ Rest API for [fastquant](https://github.com/enzoampil/fastquant "Fastquant's Git
 
 ## Getting Started
 
-## 1. Install dependecies
+## 1. Install dependencies
 ```
 git clone git@github.com:jester22/fastquant-api.git
 cd fastquant-api
-python3 -m venv env
+virtualenv env
 source env/bin/activate
 pip install -r requirements.txt
 ```
